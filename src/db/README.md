@@ -9,3 +9,5 @@
 mysql -u <user> -p <db> < schema.sql
 node src/db/seed_admin.js
 ```
+## Render
+https://census-app-ywd2.onrender.com
